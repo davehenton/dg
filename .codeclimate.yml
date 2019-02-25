@@ -23,6 +23,8 @@ plugins:
     enabled: true
   rubocop:
     enabled: true
+  saaslint:
+    enabled: true
   stylelint:
     enabled: true
   shellcheck:
